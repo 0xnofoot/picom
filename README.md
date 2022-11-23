@@ -1,3 +1,8 @@
+
+please run as this:
+picom --experimental-backends --config $PICOM_HOME/picom.conf &
+
+
 picom
 =====
 
